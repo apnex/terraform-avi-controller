@@ -1,5 +1,5 @@
 ## `terraform-avi-controller`
-Terraform module for AVI controller appliance  
+Terraform module for AVI controller appliance on vSphere  
 Clone repository and adjust parameters as required  
 
 #### `clone`
@@ -29,7 +29,7 @@ Apply the plan
 terraform apply
 ```
 
-#### [OPTIONAL] `destroy`
+#### `destroy` [OPTIONAL]
 Destroy deployed controller
 ```
 terraform destroy
