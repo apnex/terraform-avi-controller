@@ -28,3 +28,9 @@ Apply the plan
 ```
 terraform apply
 ```
+
+#### [OPTIONAL] `destroy`
+Destroy deployed controller
+```
+terraform destroy
+```
