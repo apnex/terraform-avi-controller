@@ -1,4 +1,4 @@
-## `terraform-avi-se`
+## `terraform-avi-controller`
 Terraform module for AVI controller appliance  
 Clone repository and adjust parameters as required  
 
