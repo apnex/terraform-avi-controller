@@ -1,10 +1,10 @@
-## `terraform-avi-se'
-Terraform module for AVI controller appliance
+## `terraform-avi-se`
+Terraform module for AVI controller appliance  
 Clone repository and adjust parameters as required  
 
 #### `clone`
 ```
-git clone https://github.com/apnex/terraform-avi-controller"
+git clone https://github.com/apnex/terraform-avi-controller
 cd terraform-avi-controller
 ```
 
