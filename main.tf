@@ -11,7 +11,7 @@ provider "vsphere" {
 }
 
 module "avi-controller" {
-	source		= "./terraform-avi-controller"
+	source		= "./module-avi-controller"
 
 	### vsphere variables
 	datacenter	= "core"
